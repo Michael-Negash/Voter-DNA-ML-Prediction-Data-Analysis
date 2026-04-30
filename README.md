@@ -9,7 +9,7 @@
 ---
 
 ## 🎯 Overview
-
+- 📊 [Voter DNA Live Demo](https://oszpolls.com/features/voter-dna.html)
 <div align="center">
 
 
@@ -310,12 +310,6 @@ delta = round(centered_effect, 6)
 
 ---
 
-## 🔗 Quick Links
-
-- 📊 [Voter DNA Live Demo](https://oszpolls.com/features/voter-dna.html)
-- 📖 [Full Technical Report](LASSO_Voter_Modeling_README.docx)
-
----
 
 **Last Updated:** April 2025  
 **Python Version:** 3.8+  
