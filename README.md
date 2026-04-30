@@ -9,7 +9,7 @@
 ---
 
 ## 🎯 Overview
-- 📊 [Voter DNA Live Demo](https://oszpolls.com/features/voter-dna.html)
+- 📊 [Voter DNA Live](https://oszpolls.com/features/voter-dna.html)
 <div align="center">
 
 
